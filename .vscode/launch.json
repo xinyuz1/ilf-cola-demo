@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<start>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ilf.Application",
+            "projectName": "start",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
